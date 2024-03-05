@@ -1,7 +1,7 @@
 {
-  "name": "directus-railway",
-  "version": "1.0.0",
-  "description": "Directus on railway example",
+  "name": "shinkasite-cms-directus-railway",
+  "version": "1.2",
+  "description": "shinkasite cms system",
   "scripts": {
     "start": "npx directus start"
   },
